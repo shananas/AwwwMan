@@ -1,2 +1,2 @@
 # ArmoredKnight
-![icon](https://user-images.githubusercontent.com/47014056/127944340-ab85a93d-48ce-42f9-9e69-7646c7b59038.png)
+![image](https://user-images.githubusercontent.com/47014056/160261745-bc403e22-09d0-4714-9a94-3f9360516445.png)
