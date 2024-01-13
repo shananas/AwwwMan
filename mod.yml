@@ -1,6 +1,6 @@
 title: AWWWMAN
 originalAuthor: Shananas
-description:
+game: kh2
 assets:
  - name: obj/M_EX880.mdlx
    method: copy
